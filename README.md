@@ -1,5 +1,5 @@
 
-# Tensorflow-Tutorials [![HitCount](http://hits.dwyl.com/{pranavraikote}/{Tensorflow-Tutorials}.svg)](http://hits.dwyl.com/{pranavraikote}/{Tensorflow-Tutorials})
+# Tensorflow-Tutorials [![HitCount](http://hits.dwyl.com/pranavraikote/Tensorflow-Tutorials.svg)](http://hits.dwyl.com/pranavraikote/Tensorflow-Tutorials)
 Repository for Tensorflow Deep Learning Notebooks
 
 # About
